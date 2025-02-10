@@ -6,4 +6,4 @@ updates:
       interval: "weekly"
     ignore:
       - dependency-name: org.jbpm:jbpm-bpmn2
-        versions: "> 6.2.0.CR1"
+        versions: "> 6.2.0.Final"
